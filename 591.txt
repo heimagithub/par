@@ -1,0 +1,98 @@
+discounted_ico	
+addition3	0
+kind_name_img	土地
+shape	0
+approve_pass	
+room	0
+price	2,988
+groundarea	0
+vipstyle	
+mainarea	0
+addr_number_name	
+refreshtime	1519484402
+fulladdress	九座寮獨家勝地悅華酒店旁.可建農舍.植草藥沃地
+condition	landpost,balcony_1
+photoNum	7
+fci_time	
+houseage	0
+kind_name	土地
+browsenum_name	總瀏覽
+new_list_comment_total	0
+layout	類別：林地
+nick_name	屋主 邱小姐
+floorInfo	
+houseid	4710515
+vipimg	<img src="./images/index/userCenter/sale_recom.png"  border="0" align="absmiddle" class="vipimg" alt="黃金推薦" title="黃金推薦物件"/>
+discounted_unit	
+isvip	0
+storeprice	0
+perarea_str	單價：1.53萬元
+vipBorder	
+area_name	總坪數：
+lane_name	
+posttime	18分鐘內
+address_img_title	獨家勝地悅華酒店旁.可建農舍.植草藥沃地
+regionid	6
+price_hide	price-hide
+filename	https://hp2.591.com.tw/house/active/2018/01/04/151507669686246003_210x158.crop.jpg
+alley_name	
+living	
+checkstatus	0
+comment_unread	1
+id	4710515
+type	2
+comment_total	0
+streetid	17300
+cartplace	
+new_img	
+post_id	4710515
+status	
+unit	萬元
+cases_name	
+housetype	1
+sectionid	69
+browsenum_all	617
+discounted	None
+search_name	
+kind	11
+linkman	邱小姐
+floor2	0
+saletype	0
+floor	0
+cases_id	0
+allfloor	0
+balcony_area	0
+area	1949
+browsenum	617
+is_combine	1
+user_id	1970999
+addition2	0
+ltime	2018-02-24 23:06:11
+closed	0
+mvip	1
+distance	0
+cover	https://hp2.591.com.tw/house/active/2018/01/04/151507669686246003_210x158.crop.jpg
+icon_class	sell
+addInfo	<img src="./images/index/userCenter/sale_recom.png"  border="0" align="absmiddle" class="vipimg" alt="黃金推薦" title="黃金推薦物件"/>
+section_name	龍潭區
+address_img	獨家勝地悅華酒店旁.可建農舍.植草藥沃地
+comment_ltime	1517750950
+street_name	九座寮
+comment_class	none
+space_type_str	
+onepxImg	
+mainarea_str	
+house_img	101835462,101835460,101835470,101835464,101835452,101835319,101835477,
+sectionname	龍潭區
+icon_name	出售
+houseimg	None
+regionname	桃園市
+address	九座寮獨家勝地悅華酒店旁.可..
+photo_alt	桃園買屋,龍潭買房子,土地出售,獨家勝地悅華酒店旁.可建農舍.植草藥沃地
+layout_str	<span class="layout">類別：林地</span>
+hasimg	1
+addition4	1
+groundarea_str	
+region_name	桃園市
+old_price	None
+updatetime	1517221246
